@@ -5,3 +5,4 @@ sample-sounds/*
 !shiningstar.wav
 output/*
 !.gitkeep
+slide/
