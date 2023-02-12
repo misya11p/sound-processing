@@ -1,7 +1,7 @@
 .*
 !.gitignore
 pretrained_models
-sample-sounds/*
+sample-sounds/shiningstar-sep
 !shiningstar.wav
 output/*
 !.gitkeep
