@@ -3,6 +3,6 @@
 pretrained_models
 sample-sounds/shiningstar-sep
 !shiningstar.wav
-output/*
+output
 !.gitkeep
 slide/
